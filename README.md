@@ -52,7 +52,7 @@ The expected directory structure is as follows:
 python train.py \
   --root_path ./data/Synapse/train_npz \
   --test_path ./data/Synapse/test_vol_h5 \
-  --batch_size 20 \
+  --batch_size 24 \
   --eval_interval 20 \
   --max_epochs 400
 ```
