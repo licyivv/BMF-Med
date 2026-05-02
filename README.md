@@ -81,7 +81,8 @@ python test.py \
 ## Results
 
 **Performance comparison on Synapse Multi-Organ Segmentation dataset**
-<img width="297" height="747" alt="1" src="https://github.com/user-attachments/assets/04953d1c-87ea-4c14-a370-67257972f980" />
+<img width="906" height="445" alt="image" src="https://github.com/user-attachments/assets/d61c0b08-41ca-45a3-ab9c-37f50e22e937" />
+
 
 
 ---
